@@ -9,8 +9,8 @@ const HomePage = () => {
 
     // navigate the user to another page - \room\room_code
     const handleJoinRoom = useCallback(() => {
-        navigate('/room/${value}')
-    }, [navigate, value]);                                  // navigate, value - these are the dependancies.
+        navigate(`/room/${value}`)
+    }, [navigate, value]);                 
 
     return(
         <div>
@@ -20,6 +20,7 @@ const HomePage = () => {
             onChange={(e) => setValue(e.target.value)} 
             type="text" 
             placeholder='ENTER ROOM CODE'
+
 
             />
             <button onClick={handleJoinRoom}> JOIN </button>
