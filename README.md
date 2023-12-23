@@ -1,11 +1,21 @@
-One-on-One Video Call App with ReactJS and ZegoCloud
+🚀 VideoVibe: One-on-One Video Call App with ReactJS and ZegoCloud 🚀    
 
-Overview
-This project is a one-on-one video call application built with ReactJS and integrated with ZegoCloud for real-time communication. 
-The app provides a seamless video call experience, allowing users to connect with each other in real-time.
 
-Features
-1) Real-time Video Calls: Engage in high-quality, low-latency video calls with another user.
-2) User Authentication: Securely log in and authenticate users before initiating a video call.
-3) Responsive Design: The application is designed to work seamlessly across various devices and screen sizes.
-4) ZegoCloud Integration: Leverage the power of ZegoCloud for reliable and scalable real-time communication.
+Ever wanted to connect with your friends or colleagues in a whole new way? Look no further! VideoVibe is here to revolutionize your one-on-one video call experience. Say goodbye to the ordinary and embrace the extraordinary with our cutting-edge ReactJS and ZegoCloud-powered app!
+
+
+FEATURES :
+
+Real-time Video Calls: Immerse yourself in high-quality, low-latency video calls that feel like magic.
+User Authentication: Securely log in and embark on your video call adventure.
+Responsive Design: Whether you're on a desktop or rocking it on your smartphone, VideoVibe adapts to your style.
+ZegoCloud Integration: Power-packed with the reliability and scalability of ZegoCloud for seamless communication.
+
+
+DEPENDENCIES :
+
+React: ^17.0.2
+
+Zego Express SDK: ^latest
+
+(And a bunch of other cool dependencies)
