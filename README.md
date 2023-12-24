@@ -1,4 +1,4 @@
-# 🚀 VideoVibe: One-on-One Video Call App with ReactJS and ZegoCloud 🚀    
+# 🚀 VideoVibe : One-on-One Video Call App with ReactJS and ZegoCloud 🚀    
 
 ##
 
